@@ -1,0 +1,30 @@
+:root {
+	--theme-color-high-200: #003E71;
+	--theme-color-high-300: #1e5c99;
+	--theme-color-high-400: hsl(208, 75%, 52%)
+	--theme-color-high-500: #3EA6FF;
+	--theme-color-high-600: #64b7ff;
+
+	--color-microsoft-1: #F65314;
+	--color-microsoft-2: #7CBB00;
+	--color-microsoft-3: #00A1F1;
+	--color-microsoft-4: #FFBB00;
+
+	--color-google-1: #EA4335;
+	--color-google-2: #34A853;
+	--color-google-3: #4285F4;
+	--color-google-4: #FBBC05;
+
+	--color-facebook-1: #3B5998;
+	--color-facebook-2: #8B9DC3;
+	--color-facebook-3: #DFE3EE;
+	--color-facebook-4: #F7F7F7;
+	--color-facebook-5: #FFFFFF;
+
+	--color-twitter-1: #55ACEE;
+	--color-twitter-2: #292F33;
+	--color-twitter-3: #66757F;
+	--color-twitter-4: #CCD6DD;
+	--color-twitter-5: #E1E8ED;
+	--color-twitter-6: #FFFFFF;
+}
