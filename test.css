@@ -5,24 +5,24 @@
 	--theme-color-high-500: #000;
 	--theme-color-high-600: #000;
 
-	--color-microsoft-3: #00A1F1;
-	--color-microsoft-4: #FFBB00;
+	--color-microsoft-3: black;
+	--color-microsoft-4: white;
 
-	--color-google-1: #F00;
-	--color-google-2: #0F0;
-	--color-google-3: #00F;
-	--color-google-4: #FFF;
+	--color-google-1: blue;
+	--color-google-2: green;
+	--color-google-3: black;
+	--color-google-4: white;
 
-	--color-facebook-1: #000;
-	--color-facebook-2: #001;
-	--color-facebook-3: #010;
-	--color-facebook-4: #100;
-	--color-facebook-5: #111;
+	--color-facebook-1: blue;
+	--color-facebook-2: green;
+	--color-facebook-3: black;
+	--color-facebook-4: white;
+	--color-facebook-5: red;
 
-	--color-twitter-1: #000;
-	--color-twitter-2: #001;
-	--color-twitter-3: #010;
-	--color-twitter-4: #100;
-	--color-twitter-5: #111;
-	--color-twitter-6: #011;
+	--color-twitter-1: blue;
+	--color-twitter-2: green;
+	--color-twitter-3: black;
+	--color-twitter-4: white;
+	--color-twitter-5: red;
+	--color-twitter-6: gray;
 }
