@@ -1,9 +1,9 @@
 :root {
-	--theme-color-high-200: blue;
-	--theme-color-high-300: green;
-	--theme-color-high-400: black;
-	--theme-color-high-500: white;
-	--theme-color-high-600: red;
+	--theme-color-high-200: #000;
+	--theme-color-high-300: #000;
+	--theme-color-high-400: #000;
+	--theme-color-high-500: #000;
+	--theme-color-high-600: #000;
 
 	--color-microsoft-3: #00A1F1;
 	--color-microsoft-4: #FFBB00;
